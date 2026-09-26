@@ -50,9 +50,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0901-online-stock-span) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Simulation
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
