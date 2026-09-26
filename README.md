@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
