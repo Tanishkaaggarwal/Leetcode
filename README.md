@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0041-first-missing-positive) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0901-online-stock-span) |
+## String
+|  |
+| ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 <!---LeetCode Topics End-->
