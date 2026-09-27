@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2104-sum-of-subarray-ranges](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0901-online-stock-span) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2104-sum-of-subarray-ranges](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0901-online-stock-span) |
+| [2104-sum-of-subarray-ranges](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Data Stream
 |  |
 | ------- |
