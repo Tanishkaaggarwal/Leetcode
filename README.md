@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0020-valid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0015-3sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
