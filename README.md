@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0041-first-missing-positive) |
+| [0645-set-mismatch](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
@@ -156,9 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0015-3sum) |
+| [0645-set-mismatch](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
