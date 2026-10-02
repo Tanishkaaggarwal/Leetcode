@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0735-asteroid-collision) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0645-set-mismatch](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0015-3sum) |
 | [0645-set-mismatch](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0645-set-mismatch) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
