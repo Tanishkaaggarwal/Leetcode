@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0189-rotate-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0056-merge-intervals) |
 | [0645-set-mismatch](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0620-not-boring-movies) |
 | [1193-monthly-transactions-i](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1193-monthly-transactions-i) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
