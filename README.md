@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0189-rotate-array) |
+| [1137-n-th-tribonacci-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Greedy
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -308,4 +310,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
