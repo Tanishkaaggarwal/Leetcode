@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |
