@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0283-move-zeroes) |
 ## Queue
 |  |
 | ------- |
