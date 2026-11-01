@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [2235-add-two-integers](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2235-add-two-integers) |
