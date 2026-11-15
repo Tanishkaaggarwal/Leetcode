@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0041-first-missing-positive) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0032-longest-valid-parentheses) |
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
