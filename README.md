@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Design
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
