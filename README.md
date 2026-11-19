@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1382-balance-a-binary-search-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tanishkaaggarwal/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
